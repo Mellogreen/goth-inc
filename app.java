@@ -5,5 +5,4 @@ echo "Please enter password"
 read -s passwd
 echo "Your information is updated"
 echo $username "Welcome to Zelle"
-~
-
+echo "Thanks"
